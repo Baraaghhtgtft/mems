@@ -3,4 +3,4 @@ prefix=+
 game=Him & Jaz
 stayinchannel=true
 songinstatus=false
-token=eHTTDn5X3tSNl36L38MW872HlMRMyur8
+token=NTM2OTc0NTczMzg4NjkzNTU0.DyegsQ.d3GvHOmc5R-RYItCxTHXmdb90yk
