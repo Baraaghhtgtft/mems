@@ -1,6 +1,6 @@
-owner=516473846983950336
-prefix=!
-game=Break | !play
+owner=419317864005238785
+prefix=+
+game=Him & Jaz
 stayinchannel=true
 songinstatus=false
-token=NTMxMjI1OTg3ODI5MDcxODgy.DxK29Q.Keso3BNagob-WxrfhDlaYd4fj34
+token=eHTTDn5X3tSNl36L38MW872HlMRMyur8
